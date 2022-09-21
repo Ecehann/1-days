@@ -13,6 +13,7 @@ public class Main {
 	
 	//integer (tam sayılarda)
 	int vade = 12;
+	System.out.println(vade);
 	
 	//ondalıklı sayılarda
 	double dolarDun = 18.14;
@@ -20,6 +21,7 @@ public class Main {
 	
 	Boolean dolarDustuMu = true;
 	//Boolean dolarDustuMu = false;
+	System.out.println(dolarDustuMu);
 	
 	String okYonu = "";
 	
@@ -29,8 +31,7 @@ public class Main {
 	} else if(dolarBugun>dolarDun) {
 		okYonu = "up.svg";
 		System.out.println(okYonu);
-	}
-	else {
+	} else {
 		okYonu = "equal.svg";
 		System.out.println(okYonu);
 	}

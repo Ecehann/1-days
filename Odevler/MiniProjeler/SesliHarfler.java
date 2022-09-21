@@ -1,6 +1,6 @@
-package miniProjeler;
+package MiniProjeler;
 
-public class sesliHarfler {
+public class SesliHarfler {
 
 	public static void main(String[] args) {
 		char sesliHarf = 'I';

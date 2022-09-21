@@ -1,6 +1,6 @@
 
 
-public class arrays_diziler {
+public class Arrays_diziler {
 
 	public static void main(String[] args) {
 		

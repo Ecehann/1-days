@@ -1,4 +1,4 @@
-package miniProjeler;
+package MiniProjeler;
 
 public class SayıBulma {
 

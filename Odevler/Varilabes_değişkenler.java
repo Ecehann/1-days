@@ -1,5 +1,5 @@
 
-public class varilabes_değişkenler {
+public class Varilabes_değişkenler {
 
 	public static void main(String[] args) {
 		

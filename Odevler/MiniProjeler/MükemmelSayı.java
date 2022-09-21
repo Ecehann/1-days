@@ -1,6 +1,6 @@
-package miniProjeler;
+package MiniProjeler;
 
-public class mükemmelSayı {
+public class MükemmelSayı {
 
 	public static void main(String[] args) {
 		// Mükemmel sayılar:

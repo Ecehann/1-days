@@ -1,5 +1,5 @@
 
-public class recapDemo1_özet {
+public class RecapDemo1_özet {
 
 	public static void main(String[] args) {
 

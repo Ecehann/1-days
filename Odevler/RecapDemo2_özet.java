@@ -1,5 +1,5 @@
 
-public class recapDemo2_özet {
+public class RecapDemo2_özet {
 
 	public static void main(String[] args) {
 		double [] myList = {1.2,2.3,3.4,4.5};

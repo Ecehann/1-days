@@ -1,5 +1,5 @@
 
-public class switchBlocks_değişken_sabit {
+public class SwitchBlocks_değişken_sabit {
 
 	public static void main(String[] args) {
 

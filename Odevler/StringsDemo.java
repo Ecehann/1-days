@@ -1,5 +1,5 @@
 
-public class stringsDemo {
+public class StringsDemo {
 
 	public static void main(String[] args) {
 		String mesaj = " Bugün Hava Çok Güzel. ";

@@ -1,5 +1,5 @@
 
-public class conditions_şartlar {
+public class Conditions_şartlar {
 
 	public static void main(String[] args) {
 		

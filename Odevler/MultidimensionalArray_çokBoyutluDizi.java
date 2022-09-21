@@ -1,6 +1,6 @@
 
 
-public class multidimensionalArray_çokBoyutluDizi {
+public class MultidimensionalArray_çokBoyutluDizi {
 
 	public static void main(String[] args) {
 		String [][] sehirler = new String [2][2];

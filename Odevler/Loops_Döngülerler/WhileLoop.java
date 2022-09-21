@@ -1,6 +1,6 @@
 package Loops_Döngülerler;
 
-public class whileLoop {
+public class WhileLoop {
 
 	public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
-package miniProjeler;
+package MiniProjeler;
 
-public class arkadaşSayılar {
+public class ArkadasSayılar {
 
 	public static void main(String[] args) {
 		// 220 ve 284
